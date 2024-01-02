@@ -148,3 +148,4 @@ Day 8
 8.3 Create Binary Search Tree with Tree Traversal (Inorder, Preorder, Postorder and Level order)
 
 Day 9
+9.1 Implement a C Program for AVL tree and perform Insertion and Deletion of Nodes.
